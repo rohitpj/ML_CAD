@@ -1,4 +1,0 @@
-3 
-atan-vega-3-weak-chunk-0462.rlqe.redlog 
--x2*x1 
-x3 - 1 
